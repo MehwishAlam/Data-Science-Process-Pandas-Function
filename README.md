@@ -1,8 +1,8 @@
 # Data-Science-Process-Pandas-Function
-A comprehensive project encompassing the data science workflow—from collection and cleaning through modeling and deployment—using fundamental pandas functions for data manipulation, inspection, and analysis
+A comprehensive project encompassing the data science workflow—from collection and cleaning through modeling and deployment—using fundamental pandas functions for data manipulation, inspection, and analysis**
 
 
-Data Science Process
+**Data Science Process**
 Description: This code outlines the essential steps in the data science workflow. It typically includes:
 
 Data Collection:
@@ -42,13 +42,22 @@ Basic Pandas Functions
 Description: This code provides fundamental pandas functions used for data manipulation and analysis. It includes:
 
 DataFrame Creation: Constructing DataFrames from various data sources.
+
 Reading/Writing Data: Importing data from files (e.g., CSV, Excel) and exporting DataFrames to files.
+
 Data Inspection: Inspecting the structure and summary statistics of the DataFrame.
+
 Data Selection and Filtering: Accessing and filtering data using labels and integer positions.
+
 Data Manipulation: Modifying DataFrame content by dropping, renaming, or filling missing values.
+
 Data Aggregation: Grouping and summarizing data to derive insights.
+
 Sorting and Combining: Sorting data and combining multiple DataFrames for comprehensive analysis.
+
 These descriptions should give a concise overview of the key aspects covered in each code segment.
+
+
 
 
 
