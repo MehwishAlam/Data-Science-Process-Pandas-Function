@@ -5,13 +5,37 @@ A comprehensive project encompassing the data science workflow—from collection
 Data Science Process
 Description: This code outlines the essential steps in the data science workflow. It typically includes:
 
-Data Collection: Gathering raw data from various sources.
-Data Cleaning: Addressing issues such as missing values, duplicates, and inconsistencies.
-Exploratory Data Analysis (EDA): Analyzing the data to uncover patterns, trends, and insights using statistical and graphical methods.
-Modeling: Applying machine learning algorithms to build predictive models or perform statistical inference.
-Evaluation: Assessing model performance using metrics and validation techniques.
-Deployment: Implementing the model in a real-world scenario and monitoring its performance.
-Dashboarding: Creating visualizations and reports to communicate findings and results effectively.
+Data Collection:
+Gathering raw data from various sources.
+Example: Collecting data on daily temperatures from a weather API.
+
+Data Cleaning:
+Removing or correcting inaccuracies and inconsistencies in the data.
+Example: Fixing missing values or correcting typos in a dataset of customer names.
+
+Feature Engineering:
+Creating new features or modifying existing ones to improve model performance.
+Example: Adding a "day of the week" feature to predict sales based on whether it's a weekend or weekday.
+
+Data Visualization:
+Creating charts or graphs to visually represent data and reveal patterns.
+Example: Using a bar chart to show the distribution of sales across different product categories.
+
+Model Building:
+Developing a mathematical model to make predictions or classify data.
+Example: Training a linear regression model to predict house prices based on square footage and number of bedrooms.
+Statistical Inference:
+
+Using statistical methods to make conclusions or decisions about the data.
+Example: Conducting a t-test to determine if the difference in average sales between two stores is statistically significant.
+
+Error Diagnosis:
+Identifying and analyzing errors in model predictions to improve accuracy.
+Example: Reviewing residuals (differences between predicted and actual values) to identify patterns in prediction errors.
+
+Dashboarding:
+Creating interactive visual displays to present and explore data insights.
+Example: Building a dashboard with graphs and filters to track key performance indicators (KPIs) for a business.
 
 
 Basic Pandas Functions
