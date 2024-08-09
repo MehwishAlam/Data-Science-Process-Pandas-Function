@@ -18,7 +18,6 @@ This code outlines the essential steps in the data science workflow. It typicall
 
 Data Collection:
 Gathering raw data from various sources.
-
 Example: Collecting data of bank from different branches, each containing their data in its format.
 
 Data Cleaning:
