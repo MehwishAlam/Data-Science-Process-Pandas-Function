@@ -1,40 +1,60 @@
 # Data-Science-Process-Pandas-Function
+
 A comprehensive project encompassing the data science workflow—from collection and cleaning through modeling and deployment—using fundamental pandas functions for data manipulation, inspection, and analysis**
 
 
 **Data Science Process**
-Description: This code outlines the essential steps in the data science workflow. It typically includes:
+This code outlines the essential steps in the data science workflow. It typically includes:
+
+1. Data Collection
+2. Data Cleaning
+3. Feature Engineering
+4. Data Visualization
+5. Model Building
+6. Statistical Inference
+7. Error Dignoziation
+8. Dashboarding
+
 
 Data Collection:
 Gathering raw data from various sources.
-Example: Collecting data on daily temperatures from a weather API.
+
+Example: Collecting data of bank from different branches, each containing their data in its format.
 
 Data Cleaning:
 Removing or correcting inaccuracies and inconsistencies in the data.
-Example: Fixing missing values or correcting typos in a dataset of customer names.
+
+Example: Fixing missing values or correcting typos in a dataset of customer gender.(like Female, female, F) into (Female).
 
 Feature Engineering:
-Creating new features or modifying existing ones to improve model performance.
+It includes both feature scaling and feature selection, creating new features or modifying existing ones to improve model performance.
+
 Example: Adding a "day of the week" feature to predict sales based on whether it's a weekend or weekday.
 
 Data Visualization:
 Creating charts or graphs to visually represent data and reveal patterns.
+
 Example: Using a bar chart to show the distribution of sales across different product categories.
 
 Model Building:
-Developing a mathematical model to make predictions or classify data.
+Developing a model to make predictions or classify data.
+
 Example: Training a linear regression model to predict house prices based on square footage and number of bedrooms.
+
 Statistical Inference:
 
-Using statistical methods to make conclusions or decisions about the data.
+Using statistical methods to make conclusions or decisions about the data. Analyzing what changes are done and why that improves the ML model.
+
 Example: Conducting a t-test to determine if the difference in average sales between two stores is statistically significant.
 
 Error Diagnosis:
 Identifying and analyzing errors in model predictions to improve accuracy.
+
 Example: Reviewing residuals (differences between predicted and actual values) to identify patterns in prediction errors.
 
 Dashboarding:
 Creating interactive visual displays to present and explore data insights.
+
 Example: Building a dashboard with graphs and filters to track key performance indicators (KPIs) for a business.
 
 
